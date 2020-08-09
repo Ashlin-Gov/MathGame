@@ -1,0 +1,116 @@
+﻿  AssetManager.cpp
+  Game.cpp
+  GameState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(16,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(194,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(196,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(197,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(199,49): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.cpp(237,21): warning C4018: '<': signed/unsigned mismatch
+  InputManager.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(13,135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(13,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(13,75): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(13,51): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(27,142): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(27,102): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(27,74): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(27,50): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  MenuState.cpp
+  Player.cpp
+  PlayerAmountState.cpp
+  PreGameState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(21,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(31,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(42,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(52,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.cpp(57,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  QuestionData.cpp
+  ScoreboardState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(20,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(41,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(55,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(65,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.cpp(124,22): warning C4018: '<': signed/unsigned mismatch
+  SettingState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\SettingState.cpp(27,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  SplashState.cpp
+  StateClassTemplate.cpp
+  StateMachine.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.cpp(33): warning C4715: 'MathWars::InputManager::IsSpriteHovered': not all control paths return a value
+  LINK : C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\Debug\MathWars.exe not found or not built by the last incremental link; performing full link
+  MathWars.vcxproj -> C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\Debug\MathWars.exe

@@ -1,0 +1,30 @@
+﻿  AssetManager.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\AssetManager.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\Game.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\GameState.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\Player.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayerAmountState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PlayerAmountState.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PreGameState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\PreGameState.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  InputManager.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\InputManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\Game.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MenuState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\MenuState.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  QuestionData.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\Game.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ScoreboardState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\ScoreboardState.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SettingState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\SettingState.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SplashState.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\SplashState.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  StateClassTemplate.cpp
+C:\Users\Ashlin\Desktop\Testing\MathWarsCurrent\MathWars\StateClassTemplate.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  StateMachine.cpp
+  Generating Code...
